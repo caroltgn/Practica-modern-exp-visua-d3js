@@ -1,0 +1,34 @@
+rect.max {
+    fill: rgb(128, 240, 143)
+}
+
+rect.no_max {
+    fill: rgb(104, 107, 105)
+}
+.container {
+    text-align: center;
+}
+
+
+#chart {
+    width: 70%; /* Ajusta el ancho */
+    margin: 0 auto;
+}
+.container h2 {
+    margin-bottom: 10px;
+}
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+#slider-time {
+    width: 80%; /* Ajusta el ancho  */
+    margin: 0 auto;
+}
+
+#value-time {
+    text-align: center;
+}

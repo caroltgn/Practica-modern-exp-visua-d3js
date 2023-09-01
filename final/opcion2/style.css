@@ -1,0 +1,25 @@
+/* Estilos para la línea */
+.line {
+    fill: none; /* Sin relleno */
+    stroke: blue; /* Color de la línea */
+    stroke-width: 2px; /* Grosor de la línea */
+    margin-left: auto;
+}
+
+/* Estilos para las barras */
+.bar {
+    fill: green; /* Color de las barras */
+    opacity: 0.7; /* Opacidad de las barras */
+}
+
+/* Estilos para los ejes */
+.axis path,
+.axis line {
+    fill: none;
+
+}
+
+.axis text {
+    font-family: sans-serif;
+    font-size: 10px;
+}
